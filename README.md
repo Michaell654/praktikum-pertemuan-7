@@ -4,7 +4,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Fadzar Surya Wijaya|312310451|TI.23.A5|Basis Data|
+|Michael Nicholas kardono|312310568|TI.23.A5|Basis Data|
 
 # Soal Latihan Praktikum
 ## Data Model Mapping
